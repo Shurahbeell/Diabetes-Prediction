@@ -1,12 +1,12 @@
-# 🩺 Diabetes Prediction (Classification Project)
+#  Diabetes Prediction (Classification Project)
 
 A beginner-friendly ML project to predict diabetes (yes/no) using the **Pima Indians Diabetes** dataset.  
 We compare multiple algorithms and visualize their performance.
 
-## 📦 Tech
+##  Tech
 Python · scikit-learn · XGBoost · NumPy · Pandas · Matplotlib · Seaborn · Jupyter
 
-## 📊 Dataset
+##  Dataset
 - Source: Pima Indians Diabetes Dataset (e.g., Kaggle/UCI)
 - Target: `Outcome` (1 = Diabetic, 0 = Non-Diabetic)
 

@@ -15,7 +15,7 @@ Python · scikit-learn · XGBoost · NumPy · Pandas · Matplotlib · Seaborn ·
 - Filled missing with **median**
 - Train/Test split (80/20), scaled features
 
-## 🤖 Models Compared
+##  Models Compared
 Logistic Regression · Decision Tree · Random Forest · XGBoost · KNN · Naive Bayes · SVM
 
 Results (Test Set)

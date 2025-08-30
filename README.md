@@ -32,4 +32,4 @@ Results (Test Set)
 
 
 
-jupyter notebook notebooks/diabetes_classification.ipynb
+
